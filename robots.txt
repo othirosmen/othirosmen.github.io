@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://othirosmen.github.io/sitemap
+Sitemap: https://othirosmen.github.io/app/sitemap
+Sitemap: https://othirosmen.github.io/assets/sitemap
+Sitemap: https://othirosmen.github.io/css/sitemap
+Sitemap: https://othirosmen.github.io/includes/sitemap
+Sitemap: https://othirosmen.github.io/item/sitemap
+Sitemap: https://othirosmen.github.io/src/sitemap
